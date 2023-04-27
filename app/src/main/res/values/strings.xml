@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Spotifyclone</string>
+    <string name="eclipse">Oxlade</string>
+    <string name="oxlade">Eclipse</string>
+    <string name="asa">Lucid</string>
+    <string name="lucid">Asa</string>
+    <string name="baba_hafusa">Reminisce</string>
+    <string name="reminisce">Baba Hafusa</string>
+    <string name="mil">Wizkid</string>
+    <string name="wizkid">Made in Lagos</string>
+    <string name="mmwtv">Asake</string>
+    <string name="asake">Mr Money With The Vibe</string>
+    <string name="burna">Outside</string>
+    <string name="outside">Burna boy</string>
+    <string name="burna2">Twice as Tall</string>
+    <string name="lax">Rasaking</string>
+    <string name="rasaking">L.A.X</string>
+    <string name="stt">Falz</string>
+    <string name="falz">Stories that Touch</string>
+    <string name="wanted">Wandecol</string>
+    <string name="wandecoal">Wanted</string>
+    <string name="ycee">Ycee VS Zaheer</string>
+    <string name="yceee">Ycee</string>
+    <string name="bottom_navigation_home">HOME</string>
+    <string name="bottom_navigation_profile">PROFILE</string>
+    <string name="placeholder_search">Search</string>
+    <string name="recently_played">Recently played</string>
+    <string name="jump_back_in">Jump back in</string>
+    <string name="made_for_sultan">Made For sultan</string>
+    <string name="browse_all">Browse All</string>
+</resources>
